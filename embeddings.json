@@ -1,7 +1,0 @@
-{
-  "vectors_file": "embeddings.npy",
-  "index_file": "comments_index.json",
-  "count": 7,
-  "model": "all-MiniLM-L6-v2",
-  "source_youtube_file": "youtube_analysis.json"
-}
