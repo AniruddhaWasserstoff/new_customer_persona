@@ -1,0 +1,72 @@
+{
+  "total_clusters": 2,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "name": "carry, able carry, able",
+      "slug": "cluster-0",
+      "size": 2,
+      "top_keywords": [
+        "carry",
+        "able carry",
+        "able"
+      ],
+      "top_brands": [
+        [
+          "ABLE",
+          2
+        ]
+      ],
+      "top_questions": [
+        [
+          "How does ABLE's pricing strategy compare to Hidesign's, and what are the implications for customers?",
+          2
+        ]
+      ],
+      "representative_comment": {
+        "text": "Please do a review for the updated Able Carry Daily Plus!!!",
+        "likeCount": 5,
+        "video_url": "https://youtu.be/PqagksXC1Us",
+        "author": "@lucasleon91"
+      },
+      "indices": [
+        0,
+        2
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "name": "review, great, great review",
+      "slug": "cluster-1",
+      "size": 2,
+      "top_keywords": [
+        "review",
+        "great",
+        "great review",
+        "able"
+      ],
+      "top_brands": [
+        [
+          "ABLE",
+          2
+        ]
+      ],
+      "top_questions": [
+        [
+          "How does ABLE's pricing strategy compare to Hidesign's, and what are the implications for customers?",
+          2
+        ]
+      ],
+      "representative_comment": {
+        "text": "Great review! Are you planning to review the able carry max?",
+        "likeCount": 7,
+        "video_url": "https://youtu.be/PqagksXC1Us",
+        "author": "@arunishdawit"
+      },
+      "indices": [
+        3,
+        4
+      ]
+    }
+  ]
+}

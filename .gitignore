@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+*.log
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.json  # if you have sensitive API keys in JSON (but keep clusters/index/personas JSONs if you want)
+
+# Jupyter
+.ipynb_checkpoints/

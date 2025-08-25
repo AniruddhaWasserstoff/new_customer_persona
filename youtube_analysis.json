@@ -1,0 +1,1088 @@
+{
+  "scraping_timestamp": "2025-08-22T17:44:19.822704",
+  "total_competitors": 5,
+  "parameters": {
+    "max_videos_per_question": 5,
+    "max_comments_per_video": 5,
+    "http_timeout_seconds": 30,
+    "retries": 3,
+    "min_similarity": 0.25,
+    "min_words": 6,
+    "min_chars": 25
+  },
+  "competitors_data": [
+    {
+      "brand": "Brother Vellies",
+      "website": "https://brothervellies.com",
+      "total_questions": 3,
+      "results": [
+        {
+          "question": "What specific artisanal craftsmanship techniques does Brother Vellies employ in their products?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "McpIQqeT7ig",
+                "title": "A Common Thread: Aurora James, Brother Vellies",
+                "url": "https://youtu.be/McpIQqeT7ig",
+                "viewCount": 1259,
+                "likeCount": 20,
+                "commentCount": 0,
+                "publishedAt": "2020-03-26T01:13:53Z",
+                "channelTitle": "Council of Fashion Designers of America"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "j2dzkE74pJ0",
+                "title": "How Brother Vellies' Aurora James Is Helping Retailers Make a Giant Step for Black Businesses",
+                "url": "https://youtu.be/j2dzkE74pJ0",
+                "viewCount": 896,
+                "likeCount": 25,
+                "commentCount": 1,
+                "publishedAt": "2021-02-16T22:45:39Z",
+                "channelTitle": "The Root"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "5NhCKmgj48k",
+                "title": "Unboxing Brother Vellies by CFDA Designer Aurora James (2024)",
+                "url": "https://youtu.be/5NhCKmgj48k",
+                "viewCount": 532,
+                "likeCount": 22,
+                "commentCount": 6,
+                "publishedAt": "2021-08-08T04:00:03Z",
+                "channelTitle": "Malika B: Runway Lover & Fashion Collector"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "dOl20vpm9cM",
+                "title": "Brother Vellies Founder - Aurora James",
+                "url": "https://youtu.be/dOl20vpm9cM",
+                "viewCount": 243,
+                "likeCount": 3,
+                "commentCount": 1,
+                "publishedAt": "2017-11-16T07:13:04Z",
+                "channelTitle": "Girlboss Radio with Sophia Amoruso"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "sHaK5OkhKm0",
+                "title": "Intermix x CFDA {Fashion Incubator} | Brother Vellies",
+                "url": "https://youtu.be/sHaK5OkhKm0",
+                "viewCount": 164,
+                "likeCount": 2,
+                "commentCount": 0,
+                "publishedAt": "2017-09-08T00:17:44Z",
+                "channelTitle": "INTERMIX"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "How does Brother Vellies' brand iadentity and aesthetic appeal compare to Hidesign's emphasis on timeless design and artisanal quality?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "_xIe8_DSDQ4",
+                "title": "Brother Vellies",
+                "url": "https://youtu.be/_xIe8_DSDQ4",
+                "viewCount": 6680,
+                "likeCount": 12,
+                "commentCount": 0,
+                "publishedAt": "2015-10-20T16:31:16Z",
+                "channelTitle": "Council of Fashion Designers of America"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "j2dzkE74pJ0",
+                "title": "How Brother Vellies' Aurora James Is Helping Retailers Make a Giant Step for Black Businesses",
+                "url": "https://youtu.be/j2dzkE74pJ0",
+                "viewCount": 896,
+                "likeCount": 25,
+                "commentCount": 1,
+                "publishedAt": "2021-02-16T22:45:39Z",
+                "channelTitle": "The Root"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "5NhCKmgj48k",
+                "title": "Unboxing Brother Vellies by CFDA Designer Aurora James (2024)",
+                "url": "https://youtu.be/5NhCKmgj48k",
+                "viewCount": 532,
+                "likeCount": 22,
+                "commentCount": 6,
+                "publishedAt": "2021-08-08T04:00:03Z",
+                "channelTitle": "Malika B: Runway Lover & Fashion Collector"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "sHaK5OkhKm0",
+                "title": "Intermix x CFDA {Fashion Incubator} | Brother Vellies",
+                "url": "https://youtu.be/sHaK5OkhKm0",
+                "viewCount": 164,
+                "likeCount": 2,
+                "commentCount": 0,
+                "publishedAt": "2017-09-08T00:17:44Z",
+                "channelTitle": "INTERMIX"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "g4hkYG33US0",
+                "title": "Shopify Reviews: Brother Vellies",
+                "url": "https://youtu.be/g4hkYG33US0",
+                "viewCount": 76,
+                "likeCount": 2,
+                "commentCount": 0,
+                "publishedAt": "2021-08-02T16:11:08Z",
+                "channelTitle": "Messenger Mastermind"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "What unique features or materials does Brother Vellies incorporate into their products to differentiate themselves from Hidesign's handcrafted accessories?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "JFZOjErSHX8",
+                "title": "The 15 Percent Pledge, one year later",
+                "url": "https://youtu.be/JFZOjErSHX8",
+                "viewCount": 3366,
+                "likeCount": 36,
+                "commentCount": 0,
+                "publishedAt": "2021-06-02T11:48:20Z",
+                "channelTitle": "CBC News: The National"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "j2dzkE74pJ0",
+                "title": "How Brother Vellies' Aurora James Is Helping Retailers Make a Giant Step for Black Businesses",
+                "url": "https://youtu.be/j2dzkE74pJ0",
+                "viewCount": 896,
+                "likeCount": 25,
+                "commentCount": 1,
+                "publishedAt": "2021-02-16T22:45:39Z",
+                "channelTitle": "The Root"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "5NhCKmgj48k",
+                "title": "Unboxing Brother Vellies by CFDA Designer Aurora James (2024)",
+                "url": "https://youtu.be/5NhCKmgj48k",
+                "viewCount": 532,
+                "likeCount": 22,
+                "commentCount": 6,
+                "publishedAt": "2021-08-08T04:00:03Z",
+                "channelTitle": "Malika B: Runway Lover & Fashion Collector"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "dOl20vpm9cM",
+                "title": "Brother Vellies Founder - Aurora James",
+                "url": "https://youtu.be/dOl20vpm9cM",
+                "viewCount": 243,
+                "likeCount": 3,
+                "commentCount": 1,
+                "publishedAt": "2017-11-16T07:13:04Z",
+                "channelTitle": "Girlboss Radio with Sophia Amoruso"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "2jQ7-pkoz40",
+                "title": "Aurora James: From Flea Markets to Red Carpets | Exclusive Interview",
+                "url": "https://youtu.be/2jQ7-pkoz40",
+                "viewCount": 227,
+                "likeCount": 7,
+                "commentCount": 0,
+                "publishedAt": "2024-03-19T16:31:58Z",
+                "channelTitle": "Business Traveler USA"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "ABLE",
+      "website": "https://www.livefashionable.com",
+      "total_questions": 3,
+      "results": [
+        {
+          "question": "What is ABLE's unique selling proposition that sets it apart from Hidesign?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "MUAqwMglntM",
+                "title": "FINALLY — Best Daily Carry Backpack? Able Carry Daily Plus",
+                "url": "https://youtu.be/MUAqwMglntM",
+                "viewCount": 171009,
+                "likeCount": 2004,
+                "commentCount": 168,
+                "publishedAt": "2023-03-08T23:32:59Z",
+                "channelTitle": "Ron Kwok"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "PqagksXC1Us",
+                "title": "Able Carry Daily Backpack Review (Is it a masterpiece?)",
+                "url": "https://youtu.be/PqagksXC1Us",
+                "viewCount": 60365,
+                "likeCount": 1260,
+                "commentCount": 98,
+                "publishedAt": "2021-02-25T12:20:24Z",
+                "channelTitle": "Aaron @ Nomads Nation"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "UUBUrlglFD4",
+                "title": "Able Carry Daily Plus Review (3 Weeks of Use)",
+                "url": "https://youtu.be/UUBUrlglFD4",
+                "viewCount": 54711,
+                "likeCount": 705,
+                "commentCount": 46,
+                "publishedAt": "2023-02-15T13:23:54Z",
+                "channelTitle": "Pack Hacker Reviews"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "03ojmLp40qM",
+                "title": "Able Carry Daily Plus vs Max EDC (don’t pick the wrong one!)",
+                "url": "https://youtu.be/03ojmLp40qM",
+                "viewCount": 45705,
+                "likeCount": 835,
+                "commentCount": 61,
+                "publishedAt": "2024-10-19T13:30:00Z",
+                "channelTitle": "Backpackies"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "FWJpt_TMpfU",
+                "title": "Able Carry Daily Plus Review - Great XPAC Tech / Laptop Backpack!",
+                "url": "https://youtu.be/FWJpt_TMpfU",
+                "viewCount": 18682,
+                "likeCount": 306,
+                "commentCount": 42,
+                "publishedAt": "2023-10-15T14:00:10Z",
+                "channelTitle": "Danny Packs"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "How does ABLE's pricing strategy compare to Hidesign's, and what are the implications for customers?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "MUAqwMglntM",
+                "title": "FINALLY — Best Daily Carry Backpack? Able Carry Daily Plus",
+                "url": "https://youtu.be/MUAqwMglntM",
+                "viewCount": 171009,
+                "likeCount": 2004,
+                "commentCount": 168,
+                "publishedAt": "2023-03-08T23:32:59Z",
+                "channelTitle": "Ron Kwok"
+              },
+              "top_comments": [
+                {
+                  "text": "Wassup Ron, yeah I've been using the original Able Carry for 2 years and it's one of the best bagpack I've used and I've used alot. Love the silhouette and how the bag just keeps it's shape with the way it's built.",
+                  "author": "@fleng",
+                  "likeCount": 4,
+                  "publishedAt": "2023-03-09T00:15:39Z",
+                  "similarity_score": 0.2689352333545685
+                }
+              ],
+              "relevant_comments_count": 1
+            },
+            {
+              "video": {
+                "video_id": "PqagksXC1Us",
+                "title": "Able Carry Daily Backpack Review (Is it a masterpiece?)",
+                "url": "https://youtu.be/PqagksXC1Us",
+                "viewCount": 60365,
+                "likeCount": 1260,
+                "commentCount": 98,
+                "publishedAt": "2021-02-25T12:20:24Z",
+                "channelTitle": "Aaron @ Nomads Nation"
+              },
+              "top_comments": [
+                {
+                  "text": "Able carry makes returns very difficult. It is a tedious process with multiple, time consuming requirements which must be precisely executed within two week from the time their product arrives at your doorstep. One digit was mistakenly inaccurate in the tracting number of my return, which I was required to enter and submit. My return package arrived at their facility and they didn’t bother filing my return, or notify me. The return had my return address clearly legible. Able carry intentionally complicates their return process to thwart returns. Had I not followed up on my return, I am quite certain they would have merely resold my backpack, and not credited me.",
+                  "author": "@PlacidThunderclap",
+                  "likeCount": 1,
+                  "publishedAt": "2023-04-21T18:11:01Z",
+                  "similarity_score": 0.3050926923751831
+                },
+                {
+                  "text": "Please do a review for the updated Able Carry Daily Plus!!!",
+                  "author": "@lucasleon91",
+                  "likeCount": 5,
+                  "publishedAt": "2023-12-07T09:49:44Z",
+                  "similarity_score": 0.30231350660324097
+                },
+                {
+                  "text": "Great review great bag. Will you be reviewing the 13L backpack from able as well?",
+                  "author": "@Paa375",
+                  "likeCount": 0,
+                  "publishedAt": "2021-09-05T03:13:02Z",
+                  "similarity_score": 0.2710759937763214
+                },
+                {
+                  "text": "Great review! Are you planning to review the able carry max?",
+                  "author": "@arunishdawit",
+                  "likeCount": 7,
+                  "publishedAt": "2021-02-25T14:26:45Z",
+                  "similarity_score": 0.25789719820022583
+                }
+              ],
+              "relevant_comments_count": 4
+            },
+            {
+              "video": {
+                "video_id": "UUBUrlglFD4",
+                "title": "Able Carry Daily Plus Review (3 Weeks of Use)",
+                "url": "https://youtu.be/UUBUrlglFD4",
+                "viewCount": 54711,
+                "likeCount": 705,
+                "commentCount": 46,
+                "publishedAt": "2023-02-15T13:23:54Z",
+                "channelTitle": "Pack Hacker Reviews"
+              },
+              "top_comments": [
+                {
+                  "text": "Able carry makes returns very difficult. It is a tedious process with multiple, time consuming requirements which must be precisely executed within two week from the time their product arrives at your doorstep. One digit was mistakenly inaccurate in the tracting number of my return, which I was required to enter and submit. My return package arrived at their facility and they didn’t bother filing my return, or notify me. The return had my return address clearly legible. Able carry intentionally complicates their return process to thwart returns. Had I not followed up on my return, I am quite certain they would have merely resold my backpack, and not credited me. UPDATE: the owner reached out to me and was very courteous and apologized for my experience. He reimbursed me on the return shipping and credited the purchase. Stated that their return policy will be restructured",
+                  "author": "@PlacidThunderclap",
+                  "likeCount": 18,
+                  "publishedAt": "2023-04-21T18:10:38Z",
+                  "similarity_score": 0.27542975544929504
+                }
+              ],
+              "relevant_comments_count": 1
+            },
+            {
+              "video": {
+                "video_id": "03ojmLp40qM",
+                "title": "Able Carry Daily Plus vs Max EDC (don’t pick the wrong one!)",
+                "url": "https://youtu.be/03ojmLp40qM",
+                "viewCount": 45705,
+                "likeCount": 835,
+                "commentCount": 61,
+                "publishedAt": "2024-10-19T13:30:00Z",
+                "channelTitle": "Backpackies"
+              },
+              "top_comments": [
+                {
+                  "text": "Good comparison. Really the Max EDC is a mid-point between the Able Carry Max and the Daily Plus. I already have the Max, and often it use it for EDC. Used it once for travel, and might again.",
+                  "author": "@arlencarlson",
+                  "likeCount": 11,
+                  "publishedAt": "2024-10-19T13:48:52Z",
+                  "similarity_score": 0.2640156149864197
+                }
+              ],
+              "relevant_comments_count": 1
+            },
+            {
+              "video": {
+                "video_id": "FWJpt_TMpfU",
+                "title": "Able Carry Daily Plus Review - Great XPAC Tech / Laptop Backpack!",
+                "url": "https://youtu.be/FWJpt_TMpfU",
+                "viewCount": 18684,
+                "likeCount": 306,
+                "commentCount": 42,
+                "publishedAt": "2023-10-15T14:00:10Z",
+                "channelTitle": "Danny Packs"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "What are some key customer pain points that ABLE addresses that Hidesign may not?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "7eaosp5IjqI",
+                "title": "Able Carry Max Review [What you need to know]",
+                "url": "https://youtu.be/7eaosp5IjqI",
+                "viewCount": 63021,
+                "likeCount": 1181,
+                "commentCount": 173,
+                "publishedAt": "2021-04-15T16:00:05Z",
+                "channelTitle": "Aaron @ Nomads Nation"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "kCcOaT5wjVg",
+                "title": "Able Carry Max EDC Review (Best bag for 2025?!?)",
+                "url": "https://youtu.be/kCcOaT5wjVg",
+                "viewCount": 59554,
+                "likeCount": 1052,
+                "commentCount": 275,
+                "publishedAt": "2025-01-17T21:42:42Z",
+                "channelTitle": "Aaron @ Nomads Nation"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "UUBUrlglFD4",
+                "title": "Able Carry Daily Plus Review (3 Weeks of Use)",
+                "url": "https://youtu.be/UUBUrlglFD4",
+                "viewCount": 54711,
+                "likeCount": 705,
+                "commentCount": 46,
+                "publishedAt": "2023-02-15T13:23:54Z",
+                "channelTitle": "Pack Hacker Reviews"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "pggKvXWPhmI",
+                "title": "New Able Carry Thirteen Review: Hit or Miss?",
+                "url": "https://youtu.be/pggKvXWPhmI",
+                "viewCount": 25141,
+                "likeCount": 380,
+                "commentCount": 39,
+                "publishedAt": "2023-11-16T22:15:15Z",
+                "channelTitle": "Backpackies"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "G8p0_ae6eSo",
+                "title": "Able Carry Max Review(the ULTIMATE guide!)",
+                "url": "https://youtu.be/G8p0_ae6eSo",
+                "viewCount": 2730,
+                "likeCount": 96,
+                "commentCount": 15,
+                "publishedAt": "2025-01-16T15:59:13Z",
+                "channelTitle": "Gear for the Girls"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Soko",
+      "website": "https://shopsoko.com",
+      "total_questions": 3,
+      "results": [
+        {
+          "question": "What is Soko's unique selling proposition that differentiates it from Hidesign?",
+          "videos_found": 3,
+          "videos": [
+            {
+              "video": {
+                "video_id": "jxPDjuFDFp4",
+                "title": "Soko jewelry #jewelry #gold #jewellerycollection #accessories",
+                "url": "https://youtu.be/jxPDjuFDFp4",
+                "viewCount": 811,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2023-05-27T01:05:09Z",
+                "channelTitle": "Karla Sanoja"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "BbYcFR9P4xY",
+                "title": "Marketing Unboxed: Soko Jewelry Shines with a Winning Strategy",
+                "url": "https://youtu.be/BbYcFR9P4xY",
+                "viewCount": 483,
+                "likeCount": 11,
+                "commentCount": 0,
+                "publishedAt": "2019-04-23T12:50:45Z",
+                "channelTitle": "Zaius, Inc."
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "RwmcdWgVrec",
+                "title": "Soko Jewelry Presentation",
+                "url": "https://youtu.be/RwmcdWgVrec",
+                "viewCount": 69,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2023-02-08T20:18:33Z",
+                "channelTitle": "Freda Nkrumah"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "How does Soko's pricing strategy compare to Hidesign's, and what implications does this have for customers?",
+          "videos_found": 3,
+          "videos": [
+            {
+              "video": {
+                "video_id": "jxPDjuFDFp4",
+                "title": "Soko jewelry #jewelry #gold #jewellerycollection #accessories",
+                "url": "https://youtu.be/jxPDjuFDFp4",
+                "viewCount": 811,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2023-05-27T01:05:09Z",
+                "channelTitle": "Karla Sanoja"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "BbYcFR9P4xY",
+                "title": "Marketing Unboxed: Soko Jewelry Shines with a Winning Strategy",
+                "url": "https://youtu.be/BbYcFR9P4xY",
+                "viewCount": 483,
+                "likeCount": 11,
+                "commentCount": 0,
+                "publishedAt": "2019-04-23T12:50:45Z",
+                "channelTitle": "Zaius, Inc."
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "RwmcdWgVrec",
+                "title": "Soko Jewelry Presentation",
+                "url": "https://youtu.be/RwmcdWgVrec",
+                "viewCount": 69,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2023-02-08T20:18:33Z",
+                "channelTitle": "Freda Nkrumah"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "What is Soko's approach to showcasing artisanal quality and craftsmanship, and how does it compare to Hidesign's emphasis on these aspects?",
+          "videos_found": 3,
+          "videos": [
+            {
+              "video": {
+                "video_id": "jxPDjuFDFp4",
+                "title": "Soko jewelry #jewelry #gold #jewellerycollection #accessories",
+                "url": "https://youtu.be/jxPDjuFDFp4",
+                "viewCount": 811,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2023-05-27T01:05:09Z",
+                "channelTitle": "Karla Sanoja"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "BbYcFR9P4xY",
+                "title": "Marketing Unboxed: Soko Jewelry Shines with a Winning Strategy",
+                "url": "https://youtu.be/BbYcFR9P4xY",
+                "viewCount": 483,
+                "likeCount": 11,
+                "commentCount": 0,
+                "publishedAt": "2019-04-23T12:50:45Z",
+                "channelTitle": "Zaius, Inc."
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "RwmcdWgVrec",
+                "title": "Soko Jewelry Presentation",
+                "url": "https://youtu.be/RwmcdWgVrec",
+                "viewCount": 69,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2023-02-08T20:18:33Z",
+                "channelTitle": "Freda Nkrumah"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Accompany",
+      "website": "https://accompanyus.org",
+      "total_questions": 3,
+      "results": [
+        {
+          "question": "What is Accompany's unique selling proposition that differentiates it from Hidesign?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "tTeTdIJGkUo",
+                "title": "Let SKYSPER Accompany You on Your Adventures and Amplify the Fun #hiking #daypack #hikingbackpack",
+                "url": "https://youtu.be/tTeTdIJGkUo",
+                "viewCount": 2522,
+                "likeCount": 19,
+                "commentCount": 0,
+                "publishedAt": "2023-07-27T16:00:47Z",
+                "channelTitle": "SKYSPER_Packs"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "r2rQU8WE7U0",
+                "title": "Soothing Sounds Accompany Action-Packed Gameplay In \"I'm Aquarius\" [App Review]",
+                "url": "https://youtu.be/r2rQU8WE7U0",
+                "viewCount": 699,
+                "likeCount": 10,
+                "commentCount": 0,
+                "publishedAt": "2014-04-09T20:18:34Z",
+                "channelTitle": "Cult of Mac"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "QKPcWRHIzXM",
+                "title": "ECON 202 Tegrity Recording to Accompany Review Sheet for First Test",
+                "url": "https://youtu.be/QKPcWRHIzXM",
+                "viewCount": 556,
+                "likeCount": 3,
+                "commentCount": 0,
+                "publishedAt": "2015-05-06T19:33:44Z",
+                "channelTitle": "Jane Mattes"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "Q0gat510xgg",
+                "title": "PureZone Demonstration  to Accompany Review at Potamus Prefe",
+                "url": "https://youtu.be/Q0gat510xgg",
+                "viewCount": 65,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2010-09-13T20:06:14Z",
+                "channelTitle": "Finley and Kieran’s Life"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "FmqFdvmXu-Y",
+                "title": "Accompany Employee Reviews - Q3 2018",
+                "url": "https://youtu.be/FmqFdvmXu-Y",
+                "viewCount": 4,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2018-09-28T01:30:58Z",
+                "channelTitle": "Comparably"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "How does Accompany's pricing strategy compare to Hidesign's, and what are the implications for customers?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "TD7WSLeQtVw",
+                "title": "What is Strategy?",
+                "url": "https://youtu.be/TD7WSLeQtVw",
+                "viewCount": 1414503,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2015-01-05T16:11:52Z",
+                "channelTitle": "David Kryscynski"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "QKPcWRHIzXM",
+                "title": "ECON 202 Tegrity Recording to Accompany Review Sheet for First Test",
+                "url": "https://youtu.be/QKPcWRHIzXM",
+                "viewCount": 556,
+                "likeCount": 3,
+                "commentCount": 0,
+                "publishedAt": "2015-05-06T19:33:44Z",
+                "channelTitle": "Jane Mattes"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "2LJ3KvF0_bs",
+                "title": "Dear God, Will You Accompany Me? by Erin Emory | Journal Review",
+                "url": "https://youtu.be/2LJ3KvF0_bs",
+                "viewCount": 320,
+                "likeCount": 0,
+                "commentCount": 4,
+                "publishedAt": "2013-01-20T03:50:35Z",
+                "channelTitle": "leo.joe!"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "Q0gat510xgg",
+                "title": "PureZone Demonstration  to Accompany Review at Potamus Prefe",
+                "url": "https://youtu.be/Q0gat510xgg",
+                "viewCount": 65,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2010-09-13T20:06:14Z",
+                "channelTitle": "Finley and Kieran’s Life"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "FmqFdvmXu-Y",
+                "title": "Accompany Employee Reviews - Q3 2018",
+                "url": "https://youtu.be/FmqFdvmXu-Y",
+                "viewCount": 4,
+                "likeCount": 0,
+                "commentCount": 0,
+                "publishedAt": "2018-09-28T01:30:58Z",
+                "channelTitle": "Comparably"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "What are some key customer reviews or testimonials that demonstrate Accompany's value proposition and how does it compare to Hidesign's?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "noaMIy_FWsA",
+                "title": "Accurate 13th Doctor Parody",
+                "url": "https://youtu.be/noaMIy_FWsA",
+                "viewCount": 362016,
+                "likeCount": 27374,
+                "commentCount": 2786,
+                "publishedAt": "2021-11-20T02:15:11Z",
+                "channelTitle": "Jay Exci"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "NJ4FH8Vztlw",
+                "title": "ACCOMPANY on the Piano 🎹 for Beginners | 5 techniques designed for Singers & Producers",
+                "url": "https://youtu.be/NJ4FH8Vztlw",
+                "viewCount": 135999,
+                "likeCount": 5687,
+                "commentCount": 475,
+                "publishedAt": "2023-01-16T16:00:08Z",
+                "channelTitle": "Jason Zac - Nathaniel School of Music"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "CK879hpl9qY",
+                "title": "Homemade Salmon Jerky  - Perfect Snack To Accompany Some Beers",
+                "url": "https://youtu.be/CK879hpl9qY",
+                "viewCount": 75491,
+                "likeCount": 1434,
+                "commentCount": 62,
+                "publishedAt": "2021-07-15T15:15:35Z",
+                "channelTitle": "Christopher Shaun"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "tGSOOj4ZDyE",
+                "title": "How to Accompany Like a Boss",
+                "url": "https://youtu.be/tGSOOj4ZDyE",
+                "viewCount": 13579,
+                "likeCount": 317,
+                "commentCount": 105,
+                "publishedAt": "2018-05-16T19:00:08Z",
+                "channelTitle": "Sean Daniel"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "auoGXlrmE3c",
+                "title": "Opeth - Damnation Review",
+                "url": "https://youtu.be/auoGXlrmE3c",
+                "viewCount": 83,
+                "likeCount": 1,
+                "commentCount": 0,
+                "publishedAt": "2025-06-12T19:43:57Z",
+                "channelTitle": "3K14"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "MZ Fair Trade",
+      "website": "https://mzfairtrade.com",
+      "total_questions": 3,
+      "results": [
+        {
+          "question": "What specific fair trade practices does MZ Fair Trade emphasize in their products?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "gHseeS6QvDA",
+                "title": "rumahku surgaku #shorts",
+                "url": "https://youtu.be/gHseeS6QvDA",
+                "viewCount": 879,
+                "likeCount": 19,
+                "commentCount": 4,
+                "publishedAt": "2023-03-16T14:00:33Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "HceTtu8vCLg",
+                "title": "rumah tangga sakinah #shorts",
+                "url": "https://youtu.be/HceTtu8vCLg",
+                "viewCount": 339,
+                "likeCount": 10,
+                "commentCount": 0,
+                "publishedAt": "2023-01-05T14:00:13Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "yyM6uBhbCoU",
+                "title": "manusia mati meninggalkan nama",
+                "url": "https://youtu.be/yyM6uBhbCoU",
+                "viewCount": 327,
+                "likeCount": 14,
+                "commentCount": 0,
+                "publishedAt": "2022-12-22T14:00:34Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "sMytJHhLGkA",
+                "title": "isteri perhiasan suami #shorts",
+                "url": "https://youtu.be/sMytJHhLGkA",
+                "viewCount": 312,
+                "likeCount": 8,
+                "commentCount": 0,
+                "publishedAt": "2023-10-05T14:00:41Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "rYcPGUq3Igc",
+                "title": "What's In My *HOSPITAL BAG* For Labor & Delivery // PACK WITH ME",
+                "url": "https://youtu.be/rYcPGUq3Igc",
+                "viewCount": 303,
+                "likeCount": 7,
+                "commentCount": 2,
+                "publishedAt": "2021-10-11T15:33:46Z",
+                "channelTitle": "Hunter Burgtorf"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "How does MZ Fair Trade's pricing strategy compare to the business in question?",
+          "videos_found": 5,
+          "videos": [
+            {
+              "video": {
+                "video_id": "gHseeS6QvDA",
+                "title": "rumahku surgaku #shorts",
+                "url": "https://youtu.be/gHseeS6QvDA",
+                "viewCount": 879,
+                "likeCount": 19,
+                "commentCount": 4,
+                "publishedAt": "2023-03-16T14:00:33Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "HceTtu8vCLg",
+                "title": "rumah tangga sakinah #shorts",
+                "url": "https://youtu.be/HceTtu8vCLg",
+                "viewCount": 339,
+                "likeCount": 10,
+                "commentCount": 0,
+                "publishedAt": "2023-01-05T14:00:13Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "yyM6uBhbCoU",
+                "title": "manusia mati meninggalkan nama",
+                "url": "https://youtu.be/yyM6uBhbCoU",
+                "viewCount": 327,
+                "likeCount": 14,
+                "commentCount": 0,
+                "publishedAt": "2022-12-22T14:00:34Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "sMytJHhLGkA",
+                "title": "isteri perhiasan suami #shorts",
+                "url": "https://youtu.be/sMytJHhLGkA",
+                "viewCount": 312,
+                "likeCount": 8,
+                "commentCount": 0,
+                "publishedAt": "2023-10-05T14:00:41Z",
+                "channelTitle": "KH Zainuddin MZ"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            },
+            {
+              "video": {
+                "video_id": "rYcPGUq3Igc",
+                "title": "What's In My *HOSPITAL BAG* For Labor & Delivery // PACK WITH ME",
+                "url": "https://youtu.be/rYcPGUq3Igc",
+                "viewCount": 303,
+                "likeCount": 7,
+                "commentCount": 2,
+                "publishedAt": "2021-10-11T15:33:46Z",
+                "channelTitle": "Hunter Burgtorf"
+              },
+              "top_comments": [],
+              "relevant_comments_count": 0
+            }
+          ]
+        },
+        {
+          "question": "What types of customer reviews or testimonials does MZ Fair Trade have on their website?",
+          "videos_found": 0,
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

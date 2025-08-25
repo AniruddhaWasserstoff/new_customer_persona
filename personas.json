@@ -1,0 +1,114 @@
+[
+  {
+    "persona_name": "Carry, Able Carry Buyer",
+    "demographics": {
+      "age_range": "24-34",
+      "gender": "Any",
+      "location": "Tier-1 and Tier-2 cities",
+      "income_range": "₹6L-₹14L per year",
+      "occupation": "Early-career professionals",
+      "family_status": "Single or newly married, no kids"
+    },
+    "goals": {
+      "primary": "Find reliable products with strong value for money",
+      "secondary": "Reduce post-purchase regret via credible reviews",
+      "discovery": "Use social search and video reviews to validate options",
+      "long_term": "Build a durable, minimal set of essentials"
+    },
+    "pain_points": [
+      "Hard-to-verify product claims",
+      "Inconsistent sizing and fit info",
+      "Shipping delays and hidden fees"
+    ],
+    "channels": {
+      "social": [
+        "Instagram",
+        "YouTube"
+      ],
+      "search": [
+        "Google"
+      ],
+      "email": [
+        "Brand newsletters"
+      ]
+    },
+    "content_preferences": {
+      "formats": [
+        "Short comparison videos",
+        "Infographics",
+        "Review roundups"
+      ],
+      "topics": [
+        "Price vs. quality",
+        "Transparency",
+        "Care and repair tips"
+      ],
+      "tone": [
+        "Practical",
+        "Evidence-based",
+        "Transparent"
+      ]
+    },
+    "marketing_strategy": {
+      "messaging": "Lead with total cost of ownership and proof of durability.",
+      "offers": "Bundle savings, free first exchange, transparent shipping policies.",
+      "targeting": "Retarget visitors who checked sizing and warranty pages."
+    }
+  },
+  {
+    "persona_name": "Review, Great Buyer",
+    "demographics": {
+      "age_range": "24-34",
+      "gender": "Any",
+      "location": "Tier-1 and Tier-2 cities",
+      "income_range": "₹6L-₹14L per year",
+      "occupation": "Early-career professionals",
+      "family_status": "Single or newly married, no kids"
+    },
+    "goals": {
+      "primary": "Find reliable products with strong value for money",
+      "secondary": "Reduce post-purchase regret via credible reviews",
+      "discovery": "Use social search and video reviews to validate options",
+      "long_term": "Build a durable, minimal set of essentials"
+    },
+    "pain_points": [
+      "Hard-to-verify product claims",
+      "Inconsistent sizing and fit info",
+      "Shipping delays and hidden fees"
+    ],
+    "channels": {
+      "social": [
+        "Instagram",
+        "YouTube"
+      ],
+      "search": [
+        "Google"
+      ],
+      "email": [
+        "Brand newsletters"
+      ]
+    },
+    "content_preferences": {
+      "formats": [
+        "Short comparison videos",
+        "Infographics",
+        "Review roundups"
+      ],
+      "topics": [
+        "Price vs. quality",
+        "Transparency",
+        "Care and repair tips"
+      ],
+      "tone": [
+        "Practical",
+        "Evidence-based",
+        "Transparent"
+      ]
+    },
+    "marketing_strategy": {
+      "messaging": "Lead with total cost of ownership and proof of durability.",
+      "offers": "Bundle savings, free first exchange, transparent shipping policies.",
+      "targeting": "Retarget visitors who checked sizing and warranty pages."
+    }
+  }
+]
